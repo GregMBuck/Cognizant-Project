@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/S71gkoMUwStb/t9ckCwH+CTIMahpYUtKfpKNshbwsBXJW9HpQMybH4yo+UvfHqqBkxx5vVjIpimi8ojJOHCpw==",
+<<<<<<< HEAD
+  "dgSpecHash": "hQGVnO0ZH+7TzuxqN6jjoUOMm3/rdvp5b7+Z4wDiirPhi+HjKJS5CRUZlxlDCf+hkQRFngxCjTBmz8DGa03IWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
+  "projectFilePath": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
+=======
+  "dgSpecHash": "A/Gxg+ZfZ4mtxy/f01Y+w9uRx5MIn8kndbm5o760EtJOrqQewxYnakXGf4xrg+CXZOhsLy+GDY3bldecg03PxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
+>>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474
   "expectedPackageFiles": [],
   "logs": []
 }

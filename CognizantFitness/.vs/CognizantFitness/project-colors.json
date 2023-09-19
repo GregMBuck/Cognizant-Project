@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3322a60e-e3c6-4d54-9771-4ff162d432a4": {
+      "ProjectGuid": "3322a60e-e3c6-4d54-9771-4ff162d432a4",
+      "DisplayName": "CognizantFitness.Shared",
+      "ColorIndex": 0
+    },
+    "3144704e-d715-411e-a6ec-82dbb3d4ad30": {
+      "ProjectGuid": "3144704e-d715-411e-a6ec-82dbb3d4ad30",
+      "DisplayName": "CognizantFitness.Server",
+      "ColorIndex": 1
+    },
+    "5236d331-a0c2-431c-9cc3-8dd993ac52e5": {
+      "ProjectGuid": "5236d331-a0c2-431c-9cc3-8dd993ac52e5",
+      "DisplayName": "CognizantFitness.Client",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
