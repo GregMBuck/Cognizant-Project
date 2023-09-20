@@ -1579,19 +1579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
-      "projectName": "CognizantFitness.Client",
-      "projectPath": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
-      "packagesPath": "C:\\Users\\967366\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
       "projectName": "CognizantFitness.Client",
       "projectPath": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
       "packagesPath": "C:\\Users\\967366\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Client\\obj\\",
->>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1613,13 +1605,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
-              "projectPath": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj"
-=======
             "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
               "projectPath": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj"
->>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474
             }
           }
         }

@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = CognizantFitness.Shared
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\967366\Documents\GitHub\Cognizant-Project\CognizantFitness\CognizantFitness\Shared\
-=======
 build_property.ProjectDir = C:\Users\967366\Source\Repos\Cognizant-Project\CognizantFitness\CognizantFitness\Shared\
->>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474

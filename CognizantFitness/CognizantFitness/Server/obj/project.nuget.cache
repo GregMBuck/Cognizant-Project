@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "BrFQZ365PmbxuQ2Z+VObogEsS+QyHBB+jteuTS1P3AyvwCHn3nAaqIJqcf+gvydA1wSjR+L2zoox33xVaQtyJQ==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\967366\\Documents\\GitHub\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
-=======
   "dgSpecHash": "ia28t3W97KteFA4Y52GsF7MoQR3u63q1uX8WRkZyX1QHyPuXpENhaNc9OuzV8glrc1qpwhp4shwNWOTG4nlVoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\967366\\Source\\Repos\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
->>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474
   "expectedPackageFiles": [
     "C:\\Users\\967366\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.21\\microsoft.aspnetcore.authorization.6.0.21.nupkg.sha512",
     "C:\\Users\\967366\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.21\\microsoft.aspnetcore.components.6.0.21.nupkg.sha512",

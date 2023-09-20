@@ -8,16 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CognizantFitness.Server
 build_property.RootNamespace = CognizantFitness.Server
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\967366\Documents\GitHub\Cognizant-Project\CognizantFitness\CognizantFitness\Server\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\967366\Documents\GitHub\Cognizant-Project\CognizantFitness\CognizantFitness\Server
-build_property._RazorSourceGeneratorDebug = 
-
-[c:/Users/967366/Documents/GitHub/Cognizant-Project/CognizantFitness/CognizantFitness/Server/Pages/Error.cshtml]
-=======
 build_property.ProjectDir = C:\Users\967366\Source\Repos\Cognizant-Project\CognizantFitness\CognizantFitness\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -26,6 +16,5 @@ build_property.MSBuildProjectDirectory = C:\Users\967366\Source\Repos\Cognizant-
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/967366/Source/Repos/Cognizant-Project/CognizantFitness/CognizantFitness/Server/Pages/Error.cshtml]
->>>>>>> 213d6b669d15e2c9e8045d851e1502151d859474
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
