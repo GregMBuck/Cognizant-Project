@@ -16,5 +16,18 @@ namespace CognizantFitness.Shared
         {
             return TestVariableForTimBrance + 30;
         }
+    
+    }
+    public class User
+    {
+        string userFirstName;
+        string userLastName;
+        int userWeight;
+        string userNickname;
+        string userEmail;
+        string userPhoneNumber;
+        int userHeight;
+        string userPassword;
+
     }
 }
