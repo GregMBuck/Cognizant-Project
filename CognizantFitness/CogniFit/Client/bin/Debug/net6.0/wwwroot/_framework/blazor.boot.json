@@ -199,15 +199,15 @@
       "mscorlib.dll": "sha256-jLSTHHaK0z\/mSPOgXaDKfukqvF20Fcm\/DLx+zz0kYsc=",
       "netstandard.dll": "sha256-eWmNGfejUeBAxr01xTdL9vgARF2KwlV2JPpYdaokts8=",
       "System.Private.CoreLib.dll": "sha256-5w4iRqv9MYyA0CG9D1wGOudtAmfU8mI10S6SKDD\/scI=",
-      "CogniFit.Shared.dll": "sha256-1CgjeN0Bq875Emjl8y2vzvwS22UanyFmbaQLkrIriM0=",
-      "CogniFit.Client.dll": "sha256-xZZG0mbcNiFoUdmaigXpE2RB2wyNXqYm\/xILKgvqGdM="
+      "CogniFit.Shared.dll": "sha256-1ZxAPplTsy6sioua5Six4RUz7weP3CZX\/XWWNOr4Ym8=",
+      "CogniFit.Client.dll": "sha256-X\/vdAMtrL6Yv+n+fs4YZNxcE0RiPJ1WIT+5WRRo7+MM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "CogniFit.Shared.pdb": "sha256-xX5UQhNuRHd3ZCFC9DOpyjqARbq+A3VG+onzzTeu0p0=",
-      "CogniFit.Client.pdb": "sha256-eBeJQrR0W3zBmY5c1ea9RIiT\/9kDTh\/fl1MuCDpNidM="
+      "CogniFit.Shared.pdb": "sha256-PWv4Wd7JvhvCAieHTOtZ9iSryi4zc\/B+mXs8nGnKGwg=",
+      "CogniFit.Client.pdb": "sha256-DVnLuu5qCIanOKaxOZuPDt5O3VfrPSvanvZ846iLo08="
     },
     "runtime": {
       "dotnet.6.0.22.ot1pakfilb.js": "sha256-Vpgzm0BMIfPGXG2SCtEChw5HmXlQJIIS0eyBG8kP+u4=",
