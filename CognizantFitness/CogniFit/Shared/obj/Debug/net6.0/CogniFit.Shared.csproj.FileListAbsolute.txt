@@ -1,0 +1,11 @@
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\bin\Debug\net6.0\CogniFit.Shared.deps.json
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\bin\Debug\net6.0\CogniFit.Shared.dll
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\bin\Debug\net6.0\CogniFit.Shared.pdb
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.AssemblyInfoInputs.cache
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.AssemblyInfo.cs
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.dll
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\refint\CogniFit.Shared.dll
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\CogniFit.Shared.pdb
+C:\Users\Jer\Source\Repos\GregMBuck\Cognizant-Project\CognizantFitness\CogniFit\Shared\obj\Debug\net6.0\ref\CogniFit.Shared.dll

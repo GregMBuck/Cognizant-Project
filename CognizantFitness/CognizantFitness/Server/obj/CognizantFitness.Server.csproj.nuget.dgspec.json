@@ -1,110 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj": {}
+    "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj": {
+    "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
-        "projectName": "CognizantFitness.Client",
-        "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj",
-        "packagesPath": "C:\\Users\\967170\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\967170\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
-                "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[6.0.21, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.21, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.21, 6.0.21]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
-        }
-      }
-    },
-    "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
         "projectName": "CognizantFitness.Server",
-        "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
-        "packagesPath": "C:\\Users\\967170\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Server\\obj\\",
+        "projectPath": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\CognizantFitness.Server.csproj",
+        "packagesPath": "C:\\Users\\Jer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\967170\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,17 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj": {
-                "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Client\\CognizantFitness.Client.csproj"
-              },
-              "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
-                "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj"
+              "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
+                "projectPath": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj"
               }
             }
           }
@@ -141,6 +52,22 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[6.0.21, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -162,25 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
+    "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
         "projectName": "CognizantFitness.Shared",
-        "projectPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
-        "packagesPath": "C:\\Users\\967170\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\967170\\source\\repos\\CognizantFitness\\CognizantFitness\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\CognizantFitness.Shared.csproj",
+        "packagesPath": "C:\\Users\\Jer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jer\\Source\\Repos\\GregMBuck\\Cognizant-Project\\CognizantFitness\\CognizantFitness\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\967170\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -189,6 +115,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -206,6 +133,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -222,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CogniFit.Client.props" />
+</Project>
